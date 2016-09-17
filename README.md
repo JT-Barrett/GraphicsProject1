@@ -1,6 +1,7 @@
 # GraphicsProject1
 CS 430 Project 1: Representing P3, P6 PPM formats and conversions in C
-This project is incomplete due to poor time management on my part.
+
+---This project is incomplete due to poor time management on my part.---
 
 The following functionalities are present:
 - P3 to P6 conversion
